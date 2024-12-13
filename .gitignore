@@ -1,4 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ngrok
+ngrok.exe
+ngrok.yml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
 .DS_Store
+Thumbs.db
 node_modules/
 .env
 *.log
